@@ -1,0 +1,3 @@
+[submodule "controlStockAPI"]
+	path = controlStockAPI
+	url = https://github.com/GUIDEV19/controlStockAPI.git
