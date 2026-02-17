@@ -1,3 +1,6 @@
 [submodule "controlStockAPI"]
 	path = controlStockAPI
 	url = https://github.com/GUIDEV19/controlStockAPI.git
+[submodule "loginMosfy"]
+	path = loginMosfy
+	url = git@github.com:GUIDEV19/loginMofy.git
